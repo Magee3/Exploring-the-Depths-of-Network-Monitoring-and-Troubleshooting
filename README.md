@@ -1,9 +1,13 @@
 ### Exploring the Depths of Network Monitoring and Troubleshooting
 
 We will complete the following tasks:
+
   &#x2022; Explore network address configurations
+  
   &#x2022; Manage a DHCP client
+  
   &#x2022; Conduct a network scan
+  
   &#x2022; Capture network traffic
   
 ### Gathering Network Information
