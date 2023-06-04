@@ -16,7 +16,9 @@ First and foremost, let's retrieve crucial information about the computer we are
 which serves as the domain controller. We will proceed by executing the following three commands to obtain the IP address, MAC address, and other relevant information:
 
 &#x2022; Get-NetAdapter
+
 &#x2022; Get-NetIPConfiguration -Detailed
+
 &#x2022; ipconfig /all
 
 ![cropped 1-1](https://github.com/Magee3/Exploring-the-Depths-of-Network-Monitoring-and-Troubleshooting/assets/134301259/d4564997-d0ac-4901-9e6b-e7b25ba80baa)
